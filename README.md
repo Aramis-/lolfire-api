@@ -15,22 +15,33 @@ When region is down, the response will be: 'Region down, come back later'
 ### Methods
 
 - Get API Status
-/api/v1/status
+
+http://lolfire.com/api/v1/status
 
 - Get summoner data
-/api/v1/:region/summoner/:summonername
+
+http://lolfire.com/api/v1/:region/summoner/:summonername
+
+Where region is a region name, get list of supported regions ins api/v1/status.
+
+Examples: http://lolfire.com/api/v1/euw/summoner/NSZombie
 
 - Get summoner stats with acctId provided in (Get summoner data)
-/api/v1/:region/stats/:summonerid
+
+http://lolfire.com/api/v1/:region/stats/:summonerid
 
 - Get summoner aggregatedStats. They only contain stats when summoner reach level 30
-/api/v1/:region/aggregatedstats/:summonerid
+
+http://lolfire.com/api/v1/:region/aggregatedstats/:summonerid
 
 - Get summoner matches history
-/api/v1/:region/matches/:summonerid
+
+http://lolfire.com/api/v1/:region/matches/:summonerid
 
 - Get Summoner Teams
-/api/v1/:region/teams/:summonerid
+
+http://lolfire.com/api/v1/:region/teams/:summonerid
 
 - Get Team Data by Id
-/api/v1/:region/teamdata/:teamid
+
+http://lolfire.com/api/v1/:region/teamdata/:teamid

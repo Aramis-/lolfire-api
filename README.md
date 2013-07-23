@@ -24,24 +24,30 @@ http://lolfire.com/api/v1/:region/summoner/:summonername
 
 Where region is a region name, get list of supported regions ins api/v1/status.
 
-Examples: http://lolfire.com/api/v1/euw/summoner/NSZombie
+Example: http://lolfire.com/api/v1/euw/summoner/NSZombie
 
 - Get summoner stats with acctId provided in (Get summoner data)
 
-http://lolfire.com/api/v1/:region/stats/:summonerid
+http://lolfire.com/api/v1/:region/stats/:acctId
+
+Example: http://lolfire.com/api/v1/euw/stats/36910949
 
 - Get summoner aggregatedStats. They only contain stats when summoner reach level 30
 
-http://lolfire.com/api/v1/:region/aggregatedstats/:summonerid
+http://lolfire.com/api/v1/:region/aggregatedstats/:acctId
+
+Example: http://lolfire.com/api/v1/euw/aggregatedstats/36910949
 
 - Get summoner matches history
 
-http://lolfire.com/api/v1/:region/matches/:summonerid
+http://lolfire.com/api/v1/:region/matches/:acctId
+
+http://lolfire.com/api/v1/euw/matches/36910949
 
 - Get Summoner Teams
 
-http://lolfire.com/api/v1/:region/teams/:summonerid
+http://lolfire.com/api/v1/:region/teams/:acctId
 
 - Get Team Data by Id
 
-http://lolfire.com/api/v1/:region/teamdata/:teamid
+http://lolfire.com/api/v1/:region/teamdata/:teamId

@@ -42,11 +42,13 @@ Example: http://lolfire.com/api/v1/euw/aggregatedstats/36910949
 
 http://lolfire.com/api/v1/:region/matches/:acctId
 
-http://lolfire.com/api/v1/euw/matches/36910949
+Example: http://lolfire.com/api/v1/euw/matches/36910949
 
 - Get Summoner Teams
 
-http://lolfire.com/api/v1/:region/teams/:acctId
+http://lolfire.com/api/v1/:region/teams/:summonerId
+
+Example: http://lolfire.com/api/v1/euw/teams/38277725
 
 - Get Team Data by Id
 

@@ -53,3 +53,5 @@ Example: http://lolfire.com/api/v1/euw/teams/38277725
 - Get Team Data by Id
 
 http://lolfire.com/api/v1/:region/teamdata/:teamId
+
+Example: http://lolfire.com/api/v1/euw/teamdata/TEAM-e542c760-ce84-11e2-8461-782bcb4ce61a

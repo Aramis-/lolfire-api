@@ -1,11 +1,20 @@
-lolfire-api
+LoLFire RESTful JSON API
 ===========
 
 LoLfire.com League of Legends Open API Docs
 
-# This API is on development, it can change and get some methods renamed or deprecated. Maybe it will work with API keys.
+Hello Developer!
 
-This is a JSON API.
+We love that people is using our API, but we need a source of income to support the webpage. We don't want you to pay for the api, and we don't want to put adds in. So we are suggesting you to donate
+Please! Support the API, we want more machines, you want a fast api for your application.
+We are doing the hard work so please consider donating.
+
+
+[![Donate :P](https://www.paypalobjects.com/es_ES/ES/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YAZ274WXMFDY6)
+#Thank you! <3
+
+
+### This API is on development, it can change and get some methods renamed or deprecated.
 
 ### Error handling
 
@@ -55,3 +64,11 @@ Example: http://lolfire.com/api/v1/euw/teams/38277725
 http://lolfire.com/api/v1/:region/teamdata/:teamId
 
 Example: http://lolfire.com/api/v1/euw/teamdata/TEAM-e542c760-ce84-11e2-8461-782bcb4ce61a
+
+# ACTIVE MATCHES!
+
+http://lolfire.com/api/v1/:region/active/:internalName
+
+No example, find a player in a game and test it! :P
+
+Now only working with europewest. Will be working on eune and na soon!

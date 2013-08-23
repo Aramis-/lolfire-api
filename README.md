@@ -1,6 +1,8 @@
 LoLFire RESTful JSON API
 ===========
 
+LOLFIRE SOURCE CODE BIATCHES! https://github.com/alexperezpaya/lolfire-source
+
 LoLfire.com League of Legends Open API Docs
 
 Hello Developer!

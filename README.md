@@ -11,8 +11,6 @@ We love that people is using our API, but we need a source of income to support 
 Please! Support the API, we want more machines, you want a fast api for your application.
 We are doing the hard work so please consider donating.
 
-#Sorry guys ;( We are not giving API Support by the moment, because we are not getting any donations and we are paying expensive server. I'm 17 and i can't afford it. Until we get enought money, you can run the lolfire-source to host your own API.
-
 
 [![Donate :P](https://www.paypalobjects.com/es_ES/ES/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YAZ274WXMFDY6)
 #Thank you! <3

@@ -5,18 +5,11 @@ LOLFIRE SOURCE CODE BIATCHES! https://github.com/alexperezpaya/lolfire-source
 
 LoLfire.com League of Legends Open API Docs
 
-Hello Developer!
-
-We love that people is using our API, but we need a source of income to support the webpage. We don't want you to pay for the api, and we don't want to put adds in. So we are suggesting you to donate
-Please! Support the API, we want more machines, you want a fast api for your application.
-We are doing the hard work so please consider donating.
+#Hello Developer!
+# Riot Published their official API: https://developer.riotgames.com
+# This means we are not giving support to this module anymore
 
 
-[![Donate :P](https://www.paypalobjects.com/es_ES/ES/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YAZ274WXMFDY6)
-#Thank you! <3
-
-
-### This API is on development, it can change and get some methods renamed or deprecated.
 
 ### Error handling
 
